@@ -1,6 +1,6 @@
 $packageName = 'WindowsAdminCenter1804.25'
 $installerType = 'MSI'
-$url = 'http://download.microsoft.com/download/1/0/5/1059800B-F375-451C-B37E-758 FFC7C8C8B/WindowsAdminCenter1804.25.msi'
+$url = 'https://download.microsoft.com/download/1/0/5/1059800B-F375-451C-B37E-758FFC7C8C8B/WindowsAdminCenter1804.25.msi'
 $InstallerLogLocation = "$env:temp\WindowsAdminCenter1804.25.log"
 $silentArgs = "/qn /l*v $InstallerLogLocation"
 $validExitCodes = @(0,3010,1614)
