@@ -1,15 +1,3 @@
----
-title: Windows Admin Center Overview
-description: Learn how to manage Windows Server using Windows Admin Center (Project Honolulu)
-ms.technology: manage
-ms.topic: article
-author: nwashburn-ms
-ms.author: niwashbu
-ms.date: 04/12/2018
-ms.localizationpriority: high
-ms.prod: windows-server-threshold
----
-
 # Windows Admin Center 
 
 >Applies To: Windows Server (Semi-Annual Channel), Windows Server 2016, Windows Server 2012 R2, Windows Server 2012, Windows 10
