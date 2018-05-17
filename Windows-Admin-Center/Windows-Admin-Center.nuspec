@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+<metadata>
+<id>admin-center</id>
+<version>1804.25</version>
+<packageSourceUrl>https://github.com/ctmcisco/Chocolatey-Packages/tree/master/Windows-Admin-Center</packageSourceUrl>
+<owners>ctmcisco</owners>
+<title>Windows Admin Center</title>
+<authors>Microsoft</authors>
+<projectUrl>https://docs.microsoft.com/en-us/windows-server/manage/windows-admin-center/overview</projectUrl>
+<iconUrl>https://github.com/ctmcisco/Chocolatey-Packages/blob/master/Windows-Admin-Center/Honolulu.png</iconUrl>
+<copyright>Microsoft</copyright>
+<licenseUrl></licenseUrl>
+<requireLicenseAcceptance>false</requireLicenseAcceptance>
+<projectSourceUrl>http://aka.ms/WACDownload</projectSourceUrl>
+<docsUrl>https://docs.microsoft.com/en-us/windows-server/manage/windows-admin-center/overview</docsUrl>
+<bugTrackerUrl>https://docs.microsoft.com/en-us/windows-server/manage/windows-admin-center/use/known-issues</bugTrackerUrl>
+<tags>Honolulu Admin-center sysadmin </tags>
+<summary>Windows Admin Center is a locally deployed, browser-based app for managing servers, clusters, hyper-converged infrastructure, and Windows 10 PCs</summary>
+<description>
+
+Windows Admin Center is an evolution of Windows Server in-box management tools;
+it’s a single pane of glass that consolidates all aspects of local and remote server management. 
+As a locally deployed, browser-based management experience, an Internet connection and Azure aren’t required. 
+Windows Admin Center gives you full control of all aspects of your deployment, including private networks that aren’t Internet-connected.
+    
+</description>
+<releaseNotes>https://docs.microsoft.com/en-us/windows-server/manage/windows-admin-center/overview</releaseNotes>    
+<dependencies>
+</dependencies>
+</metadata>
+<files>
+</files>
+</package>
